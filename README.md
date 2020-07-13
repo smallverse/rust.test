@@ -1,1 +1,1 @@
-# rust.teat
+# rust.test
